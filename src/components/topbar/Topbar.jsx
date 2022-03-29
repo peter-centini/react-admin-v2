@@ -8,7 +8,7 @@ export default function topbar() {
     <div className="topbar">
       <div className="topbarWrapper">
         <div className="topleft">
-        <span className="logo">PeterAdmin</span>  
+        <span className="logo">Peter-Admin</span>  
         </div>
         <div className="topright">
           <div className="topbarIconContainer">
